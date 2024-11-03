@@ -12,3 +12,10 @@ hi I made these headers
 ```javascript
 var number = 203;
 ```
+
+- [ ] eat dinner
+- [ ] go to work
+- [ ] fill on gas
+- [ ] finish project A
+- [ ] pay rent
+- [ ] sleep
