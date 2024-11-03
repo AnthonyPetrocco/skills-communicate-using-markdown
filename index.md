@@ -13,9 +13,9 @@ hi I made these headers
 var number = 203;
 ```
 
-- [ ] eat dinner
+- [x] eat dinner
 - [ ] go to work
 - [ ] fill on gas
 - [ ] finish project A
-- [ ] pay rent
-- [ ] sleep
+- [x] pay rent
+- [x] sleep
